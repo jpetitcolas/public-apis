@@ -117,6 +117,12 @@ Conversion | No | [Go!](https://currencylayer.com/documentation) |
 |---|---|---|---|
 | UK Police | UK Police data | No | [Go!](https://data.police.uk/docs/) |
 
+### Series
+
+| API | Description | OAuth |Link |
+|---|---|---|---|
+| Game of Thrones | All data from Game of Thrones / Ice And Fire | No | [Go!](https://anapioficeandfire.com/) |
+
 ### Science
 
 | API | Description | OAuth |Link |
